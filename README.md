@@ -2,7 +2,7 @@
 Original bypasses (not really original) for school.
 
 # How it works
-We use the following bypasses to power our system:
+We use the following bypasses to power our system: 
 Translate Bypass
 
 # How to update
