@@ -1,0 +1,23 @@
+- translate bypass v0.76 --beta2 -
+
+[*TB*] You need to update
+[*TB*] Starting TranslateBypass
+[*TB*] Running TranslateBypass v0.76 --beta2
+[*TB*] Please update to v0.77 --rd for a better experience
+[*TB*] Insert link to bypass here:
+>>> https://youtube.com
+[*TB*] Link Detected: YouTube
+[*TB*] Checking API
+[*TB*] API Pass
+[*TB*] Checking Website
+[*TB*] Website Pass
+[*TB*] Converting...
+[*TB*] Done
+[*TB*] Result in youtube-1.txt
+>>> stop
+[*TB*] Stopped, closing in 15 seconds.
+[*TB*] Closing...
+
+TranslateBypass Output: https://www-youtube-com.translate.goog/?_x_tr_sl=la&_x_tr_tl=en&_x_tr_hl=en-US
+
+Thank you for using TranslateBypass v0.76 --beta2
