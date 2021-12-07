@@ -10,4 +10,4 @@ To update the _bypasses_ repository, contact me on Discord (Meowflow_YT_Quack#56
 
 # Version
 Latest: v0.77 --rd
-Current: v0.76 --beta
+Current: v0.76 --beta2
